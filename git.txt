@@ -10,3 +10,11 @@ echo "# PHP2CODIGO" >> README.md
 git remote add origin https://github.com/dbabuilder/PHP2CODIGO.git
   git branch -M main
   git push -u origin main
+
+
+git init
+git status -s
+git add .
+git commit -m "comienzo del proyecto"	
+git branch
+git pull
